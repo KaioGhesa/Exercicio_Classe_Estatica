@@ -1,0 +1,14 @@
+C:\Curso Udemy\ClasseEstatica\obj\Debug\net8.0\ClasseEstatica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso Udemy\ClasseEstatica\obj\Debug\net8.0\ClasseEstatica.AssemblyInfoInputs.cache
+C:\Curso Udemy\ClasseEstatica\obj\Debug\net8.0\ClasseEstatica.AssemblyInfo.cs
+C:\Curso Udemy\ClasseEstatica\obj\Debug\net8.0\ClasseEstatica.csproj.CoreCompileInputs.cache
+C:\Curso Udemy\ClasseEstatica\bin\Debug\net8.0\ClasseEstatica.exe
+C:\Curso Udemy\ClasseEstatica\bin\Debug\net8.0\ClasseEstatica.deps.json
+C:\Curso Udemy\ClasseEstatica\bin\Debug\net8.0\ClasseEstatica.runtimeconfig.json
+C:\Curso Udemy\ClasseEstatica\bin\Debug\net8.0\ClasseEstatica.dll
+C:\Curso Udemy\ClasseEstatica\bin\Debug\net8.0\ClasseEstatica.pdb
+C:\Curso Udemy\ClasseEstatica\obj\Debug\net8.0\ClasseEstatica.dll
+C:\Curso Udemy\ClasseEstatica\obj\Debug\net8.0\refint\ClasseEstatica.dll
+C:\Curso Udemy\ClasseEstatica\obj\Debug\net8.0\ClasseEstatica.pdb
+C:\Curso Udemy\ClasseEstatica\obj\Debug\net8.0\ClasseEstatica.genruntimeconfig.cache
+C:\Curso Udemy\ClasseEstatica\obj\Debug\net8.0\ref\ClasseEstatica.dll
